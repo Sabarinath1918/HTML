@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+   <title>Events</title>
+   <link rel="icon" href="img/date.png">
+</head>
+
+<body bgcolor="black" style="color: white">
+    <center>
+    <h1> Upcoming Events 📅 </h1>
+    <p> Dont miss any of your important events. Stay updated </p>
+    </center>
+
+    <hr>
+    <p>
+        Join us for an exciting public event celebrating community and innovation! Our gathering features interactive workshops, insightful talks from industry leaders, and a showcase of local talents. Enjoy live music, delicious food from local vendors, and networking opportunities with professionals across various fields. Whether you're looking to learn something new, connect with like-minded individuals, or simply have fun, this event promises something for everyone. Don't miss out on this vibrant occasion to engage, explore, and be inspired. Mark your calendars and bring your friends and family for an unforgettable experience!
+    </p>
+    <center>
+    <img src="img/event1.png">
+    <h1>Photo gallery</h1>
+    <h2>Free entry | Free food | Pets are not allowed</h2>
+    <p>Welcome to our vibrant photo gallery! Here, we capture the essence of our community through stunning visuals that tell compelling stories. Explore a diverse collection of images showcasing our events, projects, and moments of joy. Each photo is a window into the creativity, passion, and spirit that define us. Whether it’s a snapshot of a bustling festival, a serene landscape, or a candid moment, these images celebrate our shared experiences. Dive in and relive the memories or discover new perspectives. Enjoy the journey through our lens, and feel free to share your favorite moments with friends and family.</p>
+</center>
+
+    <center>
+    <img src="img/event2.png">
+    <h1>
+        <a href="https://www.myntra.com/"> Fashion store </a>
+    </h1>
+    <h2>Free Entry | Free Food | Pets are Not Allowed</h2>
+    <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+    </center>
+
+    <hr>
+
+    <center>
+
+        <h1>
+            Contact
+        </h1>
+        <h2>
+            +91 6369711990 | eventcollab@gmail.com
+        </h2>
+        <h3>
+            16th Mela agraharam street, Nagapattinam-DT 611104
+        </h3>
+    </center>
+</body>
